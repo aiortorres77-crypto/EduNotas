@@ -1,0 +1,6 @@
+{
+  "name": "EduNotas AIOT",
+  "description": "Portal privado de calificaciones y comunicación académica para el Prof. Aaron Isaac Ordoñez Torres y sus alumnos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
